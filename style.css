@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav .nav-item a{
+    color: white;
+    font-size: 25px;
+
+}
+
+.margin-top{
+    margin-top: 15%;
+}
+
+.btn-hero {
+    background-color: #00205C;
+    color: white;
+}
+
+.btn .btn-hero :hover{
+    background-color: #fee765 !important;
+   
+}
